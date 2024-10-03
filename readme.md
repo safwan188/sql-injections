@@ -1003,7 +1003,8 @@ else:
 
 
 
-![Uploading image.png…]()
+![Alt text](./image.png)
+
 
 ## part4
 
