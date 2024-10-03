@@ -1003,7 +1003,7 @@ else:
 
 
 
-![{5ADD2658-095C-4866-B09C-F2C4207B78AF}.png](attachment:{5ADD2658-095C-4866-B09C-F2C4207B78AF}.png)
+![Uploading image.png…]()
 
 ## part4
 
